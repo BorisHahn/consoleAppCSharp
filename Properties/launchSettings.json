@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ConsoleApp4": {
+      "commandName": "Project",
+      "commandLineArgs": "we are sinking"
+    }
+  }
+}
